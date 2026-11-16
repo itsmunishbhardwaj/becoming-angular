@@ -1,0 +1,6 @@
+{
+  "buildCommand": "ng build --configuration=production",
+  "outputDirectory": "dist/becoming-angular/browser",
+  "framework": null,
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
